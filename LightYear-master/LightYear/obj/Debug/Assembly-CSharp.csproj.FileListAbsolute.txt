@@ -40,3 +40,4 @@ D:\ParsonsY2\Core Lab1\LightYear Folder\LightYear-master\LightYear\Temp\bin\Debu
 D:\ParsonsY2\Core Lab1\LightYear Folder\LightYear-master\LightYear\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 D:\ParsonsY2\Core Lab1\LightYear Folder\LightYear-master\LightYear\obj\Debug\Assembly-CSharp.dll
 D:\ParsonsY2\Core Lab1\LightYear Folder\LightYear-master\LightYear\obj\Debug\Assembly-CSharp.pdb
+D:\ParsonsY2\Core Lab1\LightYear Folder\LightYear-master\LightYear\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb

@@ -11,7 +11,7 @@ public class ElephantMove : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		transform.position += Vector3.back * 8 * Time.deltaTime;
+		transform.position += Vector3.back * 6 * Time.deltaTime;
 	
 	}
 }

@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: fd146b2dbf5dafc42bc5020d8d75d750
+timeCreated: 1479696951
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: a component_001
+    100004: a component_002
+    100006: bed_001
+    100008: bronze ring_001
+    100010: bronze ring_002
+    100012: bump cross_001
+    100014: bumper_001
+    100016: button_001
+    100018: button_002
+    100020: button_003
+    100022: button_004
+    100024: button_005
+    100026: button_006
+    100028: button_007
+    100030: button_008
+    100032: disc_001
+    100034: disc_002
+    100036: disc_003
+    100038: disc_004
+    100040: disc_005
+    100042: disc_006
+    100044: disc_007
+    100046: front scale hook thing_001
+    100048: front scale hook thing_002
+    100050: gold nail_001
+    100052: gold nail_002
+    100054: gold nail_003
+    100056: gold nail_004
+    100058: gold nail_005
+    100060: gold nail_006
+    100062: gold nail_007
+    100064: gold nail_008
+    100066: gold nail_009
+    100068: gold nail_010
+    100070: gold nail_011
+    100072: gold nail_012
+    100074: gold nail_013
+    100076: gold nail_014
+    100078: gold nail_015
+    100080: hook of awesomeness_001
+    100082: hook of awesomeness_002
+    100084: hook of awesomeness_003
+    100086: hook of awesomeness_004
+    100088: "hub from the enlightened Sketchmaster T\xF3th_001"
+    100090: "hub from the enlightened Sketchmaster T\xF3th_002"
+    100092: hub joint_001
+    100094: hub joint_002
+    100096: hub joint_003
+    100098: hub joint_004
+    100100: just for rising the file size_001
+    100102: pimped rim_001
+    100104: pimped rim_002
+    100106: "rear hook ring from the mighty Sketchmaster T\xF3th_001"
+    100108: "rear hook ring from the mighty Sketchmaster T\xF3th_002"
+    100110: "rear hook ring from the mighty Sketchmaster T\xF3th_003"
+    100112: "rear hook ring from the mighty Sketchmaster T\xF3th_004"
+    100114: "rear hook ring from the mighty Sketchmaster T\xF3th_005"
+    100116: "rear hook ring from the mighty Sketchmaster T\xF3th_006"
+    100118: rear hook_001
+    100120: rear hook_002
+    100122: rib_001
+    100124: rib_002
+    100126: scale chain_001
+    100128: scale chain_002
+    100130: scale grab safety_001
+    100132: scale grab safety_002
+    100134: scale joint_001
+    100136: scale joint_002
+    100138: single tree_001
+    100140: single tree_002
+    100142: single tree_003
+    100144: single tree_004
+    100146: smithed nail_001
+    100148: smithed nail_002
+    100150: smithed nail_003
+    100152: smithed nail_004
+    100154: smithed nail_005
+    100156: smithed nail_006
+    100158: smithed nail_007
+    100160: smithed nail_008
+    100162: smithed nail_009
+    100164: smithed nail_010
+    100166: smithed nail_011
+    100168: smithed nail_012
+    100170: smithed nail_013
+    100172: smithed nail_014
+    100174: smithed nail_015
+    100176: smithed nail_016
+    100178: smithed nail_017
+    100180: smithed nail_018
+    100182: smithed nail_019
+    100184: smithed nail_020
+    100186: smithed nail_021
+    100188: smithed nail_022
+    100190: smithed nail_023
+    100192: smithed nail_024
+    100194: smithed nail_025
+    100196: smithed nail_026
+    100198: smithed nail_027
+    100200: smithed nail_028
+    100202: smithed nail_029
+    100204: smithed nail_030
+    100206: smithed nail_031
+    100208: smithed nail_032
+    100210: smithed nail_033
+    100212: smithed nail_034
+    100214: smithed nail_035
+    100216: smithed nail_036
+    100218: smithed nail_037
+    100220: smithed nail_038
+    100222: smithed nail_039
+    100224: smithed nail_040
+    100226: smithed nail_041
+    100228: smithed nail_042
+    100230: smithed nail_043
+    100232: smithed nail_044
+    100234: "spoke from Sketchmaster T\xF3th_001"
+    100236: "spoke from Sketchmaster T\xF3th_002"
+    100238: "spoke from Sketchmaster T\xF3th_003"
+    100240: "spoke from Sketchmaster T\xF3th_004"
+    100242: "spoke from Sketchmaster T\xF3th_005"
+    100244: "spoke from Sketchmaster T\xF3th_006"
+    100246: "spoke from Sketchmaster T\xF3th_007"
+    100248: "spoke from Sketchmaster T\xF3th_008"
+    100250: "spoke from Sketchmaster T\xF3th_009"
+    100252: "spoke from Sketchmaster T\xF3th_010"
+    100254: "spoke from Sketchmaster T\xF3th_011"
+    100256: "spoke from Sketchmaster T\xF3th_012"
+    100258: "spoke from Sketchmaster T\xF3th_013"
+    100260: "spoke from Sketchmaster T\xF3th_014"
+    100262: "spoke from Sketchmaster T\xF3th_015"
+    100264: "spoke from Sketchmaster T\xF3th_016"
+    100266: "spoke from Sketchmaster T\xF3th_017"
+    100268: "spoke from Sketchmaster T\xF3th_018"
+    100270: "spoke from Sketchmaster T\xF3th_019"
+    100272: "spoke from Sketchmaster T\xF3th_020"
+    100274: "spoke from Sketchmaster T\xF3th_021"
+    100276: "spoke from Sketchmaster T\xF3th_022"
+    100278: "spoke from Sketchmaster T\xF3th_023"
+    100280: "spoke from Sketchmaster T\xF3th_024"
+    100282: wh cross_001
+    100284: wh cross_002
+    400000: //RootNode
+    400002: a component_001
+    400004: a component_002
+    400006: bed_001
+    400008: bronze ring_001
+    400010: bronze ring_002
+    400012: bump cross_001
+    400014: bumper_001
+    400016: button_001
+    400018: button_002
+    400020: button_003
+    400022: button_004
+    400024: button_005
+    400026: button_006
+    400028: button_007
+    400030: button_008
+    400032: disc_001
+    400034: disc_002
+    400036: disc_003
+    400038: disc_004
+    400040: disc_005
+    400042: disc_006
+    400044: disc_007
+    400046: front scale hook thing_001
+    400048: front scale hook thing_002
+    400050: gold nail_001
+    400052: gold nail_002
+    400054: gold nail_003
+    400056: gold nail_004
+    400058: gold nail_005
+    400060: gold nail_006
+    400062: gold nail_007
+    400064: gold nail_008
+    400066: gold nail_009
+    400068: gold nail_010
+    400070: gold nail_011
+    400072: gold nail_012
+    400074: gold nail_013
+    400076: gold nail_014
+    400078: gold nail_015
+    400080: hook of awesomeness_001
+    400082: hook of awesomeness_002
+    400084: hook of awesomeness_003
+    400086: hook of awesomeness_004
+    400088: "hub from the enlightened Sketchmaster T\xF3th_001"
+    400090: "hub from the enlightened Sketchmaster T\xF3th_002"
+    400092: hub joint_001
+    400094: hub joint_002
+    400096: hub joint_003
+    400098: hub joint_004
+    400100: just for rising the file size_001
+    400102: pimped rim_001
+    400104: pimped rim_002
+    400106: "rear hook ring from the mighty Sketchmaster T\xF3th_001"
+    400108: "rear hook ring from the mighty Sketchmaster T\xF3th_002"
+    400110: "rear hook ring from the mighty Sketchmaster T\xF3th_003"
+    400112: "rear hook ring from the mighty Sketchmaster T\xF3th_004"
+    400114: "rear hook ring from the mighty Sketchmaster T\xF3th_005"
+    400116: "rear hook ring from the mighty Sketchmaster T\xF3th_006"
+    400118: rear hook_001
+    400120: rear hook_002
+    400122: rib_001
+    400124: rib_002
+    400126: scale chain_001
+    400128: scale chain_002
+    400130: scale grab safety_001
+    400132: scale grab safety_002
+    400134: scale joint_001
+    400136: scale joint_002
+    400138: single tree_001
+    400140: single tree_002
+    400142: single tree_003
+    400144: single tree_004
+    400146: smithed nail_001
+    400148: smithed nail_002
+    400150: smithed nail_003
+    400152: smithed nail_004
+    400154: smithed nail_005
+    400156: smithed nail_006
+    400158: smithed nail_007
+    400160: smithed nail_008
+    400162: smithed nail_009
+    400164: smithed nail_010
+    400166: smithed nail_011
+    400168: smithed nail_012
+    400170: smithed nail_013
+    400172: smithed nail_014
+    400174: smithed nail_015
+    400176: smithed nail_016
+    400178: smithed nail_017
+    400180: smithed nail_018
+    400182: smithed nail_019
+    400184: smithed nail_020
+    400186: smithed nail_021
+    400188: smithed nail_022
+    400190: smithed nail_023
+    400192: smithed nail_024
+    400194: smithed nail_025
+    400196: smithed nail_026
+    400198: smithed nail_027
+    400200: smithed nail_028
+    400202: smithed nail_029
+    400204: smithed nail_030
+    400206: smithed nail_031
+    400208: smithed nail_032
+    400210: smithed nail_033
+    400212: smithed nail_034
+    400214: smithed nail_035
+    400216: smithed nail_036
+    400218: smithed nail_037
+    400220: smithed nail_038
+    400222: smithed nail_039
+    400224: smithed nail_040
+    400226: smithed nail_041
+    400228: smithed nail_042
+    400230: smithed nail_043
+    400232: smithed nail_044
+    400234: "spoke from Sketchmaster T\xF3th_001"
+    400236: "spoke from Sketchmaster T\xF3th_002"
+    400238: "spoke from Sketchmaster T\xF3th_003"
+    400240: "spoke from Sketchmaster T\xF3th_004"
+    400242: "spoke from Sketchmaster T\xF3th_005"
+    400244: "spoke from Sketchmaster T\xF3th_006"
+    400246: "spoke from Sketchmaster T\xF3th_007"
+    400248: "spoke from Sketchmaster T\xF3th_008"
+    400250: "spoke from Sketchmaster T\xF3th_009"
+    400252: "spoke from Sketchmaster T\xF3th_010"
+    400254: "spoke from Sketchmaster T\xF3th_011"
+    400256: "spoke from Sketchmaster T\xF3th_012"
+    400258: "spoke from Sketchmaster T\xF3th_013"
+    400260: "spoke from Sketchmaster T\xF3th_014"
+    400262: "spoke from Sketchmaster T\xF3th_015"
+    400264: "spoke from Sketchmaster T\xF3th_016"
+    400266: "spoke from Sketchmaster T\xF3th_017"
+    400268: "spoke from Sketchmaster T\xF3th_018"
+    400270: "spoke from Sketchmaster T\xF3th_019"
+    400272: "spoke from Sketchmaster T\xF3th_020"
+    400274: "spoke from Sketchmaster T\xF3th_021"
+    400276: "spoke from Sketchmaster T\xF3th_022"
+    400278: "spoke from Sketchmaster T\xF3th_023"
+    400280: "spoke from Sketchmaster T\xF3th_024"
+    400282: wh cross_001
+    400284: wh cross_002
+    2300000: a component_001
+    2300002: a component_002
+    2300004: bed_001
+    2300006: bronze ring_001
+    2300008: bronze ring_002
+    2300010: bump cross_001
+    2300012: bumper_001
+    2300014: button_001
+    2300016: button_002
+    2300018: button_003
+    2300020: button_004
+    2300022: button_005
+    2300024: button_006
+    2300026: button_007
+    2300028: button_008
+    2300030: disc_001
+    2300032: disc_002
+    2300034: disc_003
+    2300036: disc_004
+    2300038: disc_005
+    2300040: disc_006
+    2300042: disc_007
+    2300044: front scale hook thing_001
+    2300046: front scale hook thing_002
+    2300048: gold nail_001
+    2300050: gold nail_002
+    2300052: gold nail_003
+    2300054: gold nail_004
+    2300056: gold nail_005
+    2300058: gold nail_006
+    2300060: gold nail_007
+    2300062: gold nail_008
+    2300064: gold nail_009
+    2300066: gold nail_010
+    2300068: gold nail_011
+    2300070: gold nail_012
+    2300072: gold nail_013
+    2300074: gold nail_014
+    2300076: gold nail_015
+    2300078: hook of awesomeness_001
+    2300080: hook of awesomeness_002
+    2300082: hook of awesomeness_003
+    2300084: hook of awesomeness_004
+    2300086: "hub from the enlightened Sketchmaster T\xF3th_001"
+    2300088: "hub from the enlightened Sketchmaster T\xF3th_002"
+    2300090: hub joint_001
+    2300092: hub joint_002
+    2300094: hub joint_003
+    2300096: hub joint_004
+    2300098: just for rising the file size_001
+    2300100: pimped rim_001
+    2300102: pimped rim_002
+    2300104: "rear hook ring from the mighty Sketchmaster T\xF3th_001"
+    2300106: "rear hook ring from the mighty Sketchmaster T\xF3th_002"
+    2300108: "rear hook ring from the mighty Sketchmaster T\xF3th_003"
+    2300110: "rear hook ring from the mighty Sketchmaster T\xF3th_004"
+    2300112: "rear hook ring from the mighty Sketchmaster T\xF3th_005"
+    2300114: "rear hook ring from the mighty Sketchmaster T\xF3th_006"
+    2300116: rear hook_001
+    2300118: rear hook_002
+    2300120: rib_001
+    2300122: rib_002
+    2300124: scale chain_001
+    2300126: scale chain_002
+    2300128: scale grab safety_001
+    2300130: scale grab safety_002
+    2300132: scale joint_001
+    2300134: scale joint_002
+    2300136: single tree_001
+    2300138: single tree_002
+    2300140: single tree_003
+    2300142: single tree_004
+    2300144: smithed nail_001
+    2300146: smithed nail_002
+    2300148: smithed nail_003
+    2300150: smithed nail_004
+    2300152: smithed nail_005
+    2300154: smithed nail_006
+    2300156: smithed nail_007
+    2300158: smithed nail_008
+    2300160: smithed nail_009
+    2300162: smithed nail_010
+    2300164: smithed nail_011
+    2300166: smithed nail_012
+    2300168: smithed nail_013
+    2300170: smithed nail_014
+    2300172: smithed nail_015
+    2300174: smithed nail_016
+    2300176: smithed nail_017
+    2300178: smithed nail_018
+    2300180: smithed nail_019
+    2300182: smithed nail_020
+    2300184: smithed nail_021
+    2300186: smithed nail_022
+    2300188: smithed nail_023
+    2300190: smithed nail_024
+    2300192: smithed nail_025
+    2300194: smithed nail_026
+    2300196: smithed nail_027
+    2300198: smithed nail_028
+    2300200: smithed nail_029
+    2300202: smithed nail_030
+    2300204: smithed nail_031
+    2300206: smithed nail_032
+    2300208: smithed nail_033
+    2300210: smithed nail_034
+    2300212: smithed nail_035
+    2300214: smithed nail_036
+    2300216: smithed nail_037
+    2300218: smithed nail_038
+    2300220: smithed nail_039
+    2300222: smithed nail_040
+    2300224: smithed nail_041
+    2300226: smithed nail_042
+    2300228: smithed nail_043
+    2300230: smithed nail_044
+    2300232: "spoke from Sketchmaster T\xF3th_001"
+    2300234: "spoke from Sketchmaster T\xF3th_002"
+    2300236: "spoke from Sketchmaster T\xF3th_003"
+    2300238: "spoke from Sketchmaster T\xF3th_004"
+    2300240: "spoke from Sketchmaster T\xF3th_005"
+    2300242: "spoke from Sketchmaster T\xF3th_006"
+    2300244: "spoke from Sketchmaster T\xF3th_007"
+    2300246: "spoke from Sketchmaster T\xF3th_008"
+    2300248: "spoke from Sketchmaster T\xF3th_009"
+    2300250: "spoke from Sketchmaster T\xF3th_010"
+    2300252: "spoke from Sketchmaster T\xF3th_011"
+    2300254: "spoke from Sketchmaster T\xF3th_012"
+    2300256: "spoke from Sketchmaster T\xF3th_013"
+    2300258: "spoke from Sketchmaster T\xF3th_014"
+    2300260: "spoke from Sketchmaster T\xF3th_015"
+    2300262: "spoke from Sketchmaster T\xF3th_016"
+    2300264: "spoke from Sketchmaster T\xF3th_017"
+    2300266: "spoke from Sketchmaster T\xF3th_018"
+    2300268: "spoke from Sketchmaster T\xF3th_019"
+    2300270: "spoke from Sketchmaster T\xF3th_020"
+    2300272: "spoke from Sketchmaster T\xF3th_021"
+    2300274: "spoke from Sketchmaster T\xF3th_022"
+    2300276: "spoke from Sketchmaster T\xF3th_023"
+    2300278: "spoke from Sketchmaster T\xF3th_024"
+    2300280: wh cross_001
+    2300282: wh cross_002
+    3300000: a component_001
+    3300002: a component_002
+    3300004: bed_001
+    3300006: bronze ring_001
+    3300008: bronze ring_002
+    3300010: bump cross_001
+    3300012: bumper_001
+    3300014: button_001
+    3300016: button_002
+    3300018: button_003
+    3300020: button_004
+    3300022: button_005
+    3300024: button_006
+    3300026: button_007
+    3300028: button_008
+    3300030: disc_001
+    3300032: disc_002
+    3300034: disc_003
+    3300036: disc_004
+    3300038: disc_005
+    3300040: disc_006
+    3300042: disc_007
+    3300044: front scale hook thing_001
+    3300046: front scale hook thing_002
+    3300048: gold nail_001
+    3300050: gold nail_002
+    3300052: gold nail_003
+    3300054: gold nail_004
+    3300056: gold nail_005
+    3300058: gold nail_006
+    3300060: gold nail_007
+    3300062: gold nail_008
+    3300064: gold nail_009
+    3300066: gold nail_010
+    3300068: gold nail_011
+    3300070: gold nail_012
+    3300072: gold nail_013
+    3300074: gold nail_014
+    3300076: gold nail_015
+    3300078: hook of awesomeness_001
+    3300080: hook of awesomeness_002
+    3300082: hook of awesomeness_003
+    3300084: hook of awesomeness_004
+    3300086: "hub from the enlightened Sketchmaster T\xF3th_001"
+    3300088: "hub from the enlightened Sketchmaster T\xF3th_002"
+    3300090: hub joint_001
+    3300092: hub joint_002
+    3300094: hub joint_003
+    3300096: hub joint_004
+    3300098: just for rising the file size_001
+    3300100: pimped rim_001
+    3300102: pimped rim_002
+    3300104: "rear hook ring from the mighty Sketchmaster T\xF3th_001"
+    3300106: "rear hook ring from the mighty Sketchmaster T\xF3th_002"
+    3300108: "rear hook ring from the mighty Sketchmaster T\xF3th_003"
+    3300110: "rear hook ring from the mighty Sketchmaster T\xF3th_004"
+    3300112: "rear hook ring from the mighty Sketchmaster T\xF3th_005"
+    3300114: "rear hook ring from the mighty Sketchmaster T\xF3th_006"
+    3300116: rear hook_001
+    3300118: rear hook_002
+    3300120: rib_001
+    3300122: rib_002
+    3300124: scale chain_001
+    3300126: scale chain_002
+    3300128: scale grab safety_001
+    3300130: scale grab safety_002
+    3300132: scale joint_001
+    3300134: scale joint_002
+    3300136: single tree_001
+    3300138: single tree_002
+    3300140: single tree_003
+    3300142: single tree_004
+    3300144: smithed nail_001
+    3300146: smithed nail_002
+    3300148: smithed nail_003
+    3300150: smithed nail_004
+    3300152: smithed nail_005
+    3300154: smithed nail_006
+    3300156: smithed nail_007
+    3300158: smithed nail_008
+    3300160: smithed nail_009
+    3300162: smithed nail_010
+    3300164: smithed nail_011
+    3300166: smithed nail_012
+    3300168: smithed nail_013
+    3300170: smithed nail_014
+    3300172: smithed nail_015
+    3300174: smithed nail_016
+    3300176: smithed nail_017
+    3300178: smithed nail_018
+    3300180: smithed nail_019
+    3300182: smithed nail_020
+    3300184: smithed nail_021
+    3300186: smithed nail_022
+    3300188: smithed nail_023
+    3300190: smithed nail_024
+    3300192: smithed nail_025
+    3300194: smithed nail_026
+    3300196: smithed nail_027
+    3300198: smithed nail_028
+    3300200: smithed nail_029
+    3300202: smithed nail_030
+    3300204: smithed nail_031
+    3300206: smithed nail_032
+    3300208: smithed nail_033
+    3300210: smithed nail_034
+    3300212: smithed nail_035
+    3300214: smithed nail_036
+    3300216: smithed nail_037
+    3300218: smithed nail_038
+    3300220: smithed nail_039
+    3300222: smithed nail_040
+    3300224: smithed nail_041
+    3300226: smithed nail_042
+    3300228: smithed nail_043
+    3300230: smithed nail_044
+    3300232: "spoke from Sketchmaster T\xF3th_001"
+    3300234: "spoke from Sketchmaster T\xF3th_002"
+    3300236: "spoke from Sketchmaster T\xF3th_003"
+    3300238: "spoke from Sketchmaster T\xF3th_004"
+    3300240: "spoke from Sketchmaster T\xF3th_005"
+    3300242: "spoke from Sketchmaster T\xF3th_006"
+    3300244: "spoke from Sketchmaster T\xF3th_007"
+    3300246: "spoke from Sketchmaster T\xF3th_008"
+    3300248: "spoke from Sketchmaster T\xF3th_009"
+    3300250: "spoke from Sketchmaster T\xF3th_010"
+    3300252: "spoke from Sketchmaster T\xF3th_011"
+    3300254: "spoke from Sketchmaster T\xF3th_012"
+    3300256: "spoke from Sketchmaster T\xF3th_013"
+    3300258: "spoke from Sketchmaster T\xF3th_014"
+    3300260: "spoke from Sketchmaster T\xF3th_015"
+    3300262: "spoke from Sketchmaster T\xF3th_016"
+    3300264: "spoke from Sketchmaster T\xF3th_017"
+    3300266: "spoke from Sketchmaster T\xF3th_018"
+    3300268: "spoke from Sketchmaster T\xF3th_019"
+    3300270: "spoke from Sketchmaster T\xF3th_020"
+    3300272: "spoke from Sketchmaster T\xF3th_021"
+    3300274: "spoke from Sketchmaster T\xF3th_022"
+    3300276: "spoke from Sketchmaster T\xF3th_023"
+    3300278: "spoke from Sketchmaster T\xF3th_024"
+    3300280: wh cross_001
+    3300282: wh cross_002
+    4300000: button_008
+    4300002: button_007
+    4300004: scale grab safety_002
+    4300006: button_006
+    4300008: "rear hook ring from the mighty Sketchmaster T\xF3th_006"
+    4300010: scale grab safety_001
+    4300012: button_005
+    4300014: button_004
+    4300016: button_003
+    4300018: "rear hook ring from the mighty Sketchmaster T\xF3th_005"
+    4300020: bed_001
+    4300022: front scale hook thing_002
+    4300024: a component_002
+    4300026: "rear hook ring from the mighty Sketchmaster T\xF3th_004"
+    4300028: button_002
+    4300030: button_001
+    4300032: front scale hook thing_001
+    4300034: a component_001
+    4300036: "rear hook ring from the mighty Sketchmaster T\xF3th_003"
+    4300038: bronze ring_002
+    4300040: gold nail_015
+    4300042: gold nail_014
+    4300044: bump cross_001
+    4300046: bumper_001
+    4300048: bronze ring_001
+    4300050: disc_007
+    4300052: scale chain_002
+    4300054: gold nail_013
+    4300056: gold nail_012
+    4300058: gold nail_011
+    4300060: gold nail_010
+    4300062: disc_006
+    4300064: scale joint_002
+    4300066: smithed nail_044
+    4300068: smithed nail_043
+    4300070: smithed nail_042
+    4300072: smithed nail_041
+    4300074: smithed nail_040
+    4300076: smithed nail_039
+    4300078: gold nail_009
+    4300080: gold nail_008
+    4300082: gold nail_007
+    4300084: gold nail_006
+    4300086: disc_005
+    4300088: scale joint_001
+    4300090: smithed nail_038
+    4300092: smithed nail_037
+    4300094: scale chain_001
+    4300096: smithed nail_036
+    4300098: smithed nail_035
+    4300100: smithed nail_034
+    4300102: smithed nail_033
+    4300104: gold nail_005
+    4300106: hook of awesomeness_004
+    4300108: hook of awesomeness_003
+    4300110: hook of awesomeness_002
+    4300112: hook of awesomeness_001
+    4300114: single tree_004
+    4300116: gold nail_004
+    4300118: disc_004
+    4300120: single tree_003
+    4300122: single tree_002
+    4300124: single tree_001
+    4300126: gold nail_003
+    4300128: gold nail_002
+    4300130: gold nail_001
+    4300132: rib_002
+    4300134: rib_001
+    4300136: "spoke from Sketchmaster T\xF3th_024"
+    4300138: "spoke from Sketchmaster T\xF3th_023"
+    4300140: "spoke from Sketchmaster T\xF3th_022"
+    4300142: "spoke from Sketchmaster T\xF3th_021"
+    4300144: "spoke from Sketchmaster T\xF3th_020"
+    4300146: "spoke from Sketchmaster T\xF3th_019"
+    4300148: "spoke from Sketchmaster T\xF3th_018"
+    4300150: "spoke from Sketchmaster T\xF3th_017"
+    4300152: hub joint_004
+    4300154: wh cross_002
+    4300156: smithed nail_032
+    4300158: smithed nail_031
+    4300160: smithed nail_030
+    4300162: smithed nail_029
+    4300164: smithed nail_028
+    4300166: smithed nail_027
+    4300168: smithed nail_026
+    4300170: smithed nail_025
+    4300172: smithed nail_024
+    4300174: smithed nail_023
+    4300176: smithed nail_022
+    4300178: smithed nail_021
+    4300180: smithed nail_020
+    4300182: smithed nail_019
+    4300184: smithed nail_018
+    4300186: smithed nail_017
+    4300188: pimped rim_002
+    4300190: "hub from the enlightened Sketchmaster T\xF3th_002"
+    4300192: "spoke from Sketchmaster T\xF3th_016"
+    4300194: "spoke from Sketchmaster T\xF3th_015"
+    4300196: "spoke from Sketchmaster T\xF3th_014"
+    4300198: "spoke from Sketchmaster T\xF3th_013"
+    4300200: disc_003
+    4300202: hub joint_003
+    4300204: disc_002
+    4300206: disc_001
+    4300208: hub joint_002
+    4300210: hub joint_001
+    4300212: rear hook_002
+    4300214: "rear hook ring from the mighty Sketchmaster T\xF3th_002"
+    4300216: "rear hook ring from the mighty Sketchmaster T\xF3th_001"
+    4300218: rear hook_001
+    4300220: just for rising the file size_001
+    4300222: wh cross_001
+    4300224: smithed nail_016
+    4300226: smithed nail_015
+    4300228: smithed nail_014
+    4300230: smithed nail_013
+    4300232: smithed nail_012
+    4300234: smithed nail_011
+    4300236: smithed nail_010
+    4300238: smithed nail_009
+    4300240: smithed nail_008
+    4300242: smithed nail_007
+    4300244: smithed nail_006
+    4300246: smithed nail_005
+    4300248: smithed nail_004
+    4300250: smithed nail_003
+    4300252: smithed nail_002
+    4300254: smithed nail_001
+    4300256: pimped rim_001
+    4300258: "hub from the enlightened Sketchmaster T\xF3th_001"
+    4300260: "spoke from Sketchmaster T\xF3th_012"
+    4300262: "spoke from Sketchmaster T\xF3th_011"
+    4300264: "spoke from Sketchmaster T\xF3th_010"
+    4300266: "spoke from Sketchmaster T\xF3th_009"
+    4300268: "spoke from Sketchmaster T\xF3th_008"
+    4300270: "spoke from Sketchmaster T\xF3th_007"
+    4300272: "spoke from Sketchmaster T\xF3th_006"
+    4300274: "spoke from Sketchmaster T\xF3th_005"
+    4300276: "spoke from Sketchmaster T\xF3th_004"
+    4300278: "spoke from Sketchmaster T\xF3th_003"
+    4300280: "spoke from Sketchmaster T\xF3th_002"
+    4300282: "spoke from Sketchmaster T\xF3th_001"
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

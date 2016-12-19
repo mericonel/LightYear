@@ -11,7 +11,7 @@ public class RockMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		transform.position += Vector3.back * 5 * Time.deltaTime;
+		transform.position += Vector3.back * 4 * Time.deltaTime;
 	
 	}
 }

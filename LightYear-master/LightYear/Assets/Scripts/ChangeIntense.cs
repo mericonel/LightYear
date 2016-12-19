@@ -21,11 +21,11 @@ public class ChangeIntense : MonoBehaviour {
 		void OnTriggerEnter (Collider otherObj){
 
 		if (otherObj.tag == "Wood") {
-			Destroy (otherObj.gameObject);
-			Debug.Log ("Light Activate!");
-			animator.SetTrigger ("LightIntensity");
-			fire.Play ();
+				Destroy (otherObj.gameObject);
+				Debug.Log ("Light Activate!");
+				animator.SetTrigger ("LightIntensity");
+				fire.Play ();
+			}
 		}
 	
 	}
-}

@@ -1,0 +1,78 @@
+
+
+=======================================- ChangeLog -=======================================
+___________________________________________________________________________________________
+
+
+
+=======================================-  Current  -======================================= 
+
+-------------------------------------------------------------------------------------------
+v 1.2.3 
+===========================================================================================
+C#.
+* Added namespace "ACR.TimeOfDayFree".
+* Removed "m_Hour" and "m_Minute" variables.
+* Added hour and minute label in custom editor.
+* Removed "Night Horizon Exponent" property(not it's necesary).
+* Fixed "width" of the properties in the custom editor.
+* Removed "m_MoonLight" reference(now used only one directional light).
+* Added "useStarsTinkle" bool.
+-------------------------------------------------------------------------------------------
+
+Shaders.
+- Custom-Skybox-Procedural.
+* Added other "Moon Halo" function.
+* "Night Color" now is affected by atmosphere thickness.
+* Disabled "Sun quality" (Temporarily). enabled only HQ.
+___________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+=======================================-    Old    -=======================================
+
+
+v 1.1.0
+-------------------------------------------------------------------------------------------
+* Added new moon texture(no realistic).
+* Fixed moon texture position.
+* Fixed moon alpha intensity.
+* Renamed "timeInSeconds" variable to "dayInSeconds".
+* Added stars twinkle feature.
+___________________________________________________________________________________________
+
+
+v 1.1.2 - included in current versión.
+-------------------------------------------------------------------------------------------
+* Fixed WebGL pink material.
+* Fixed moon halo bug(black square).
+___________________________________________________________________________________________
+
+
+v 1.2.0
+-------------------------------------------------------------------------------------------
+* Renamed Asset.
+-------------------------------------------------------------------------------------------
+* Added selectable curves and gradients.
+* Added hours and minutes properties.
+* Added time string(00:00).
+* Added horizon fade for moon and stars.
+* Added fog type.
+* Access to almost all properties (get; set;).
+* Rename "CGCycle" property to "CGTime".
+* Removed "SunCycle" property.
+* Added "WorldLongitude" property.
+____________________________________________________________________________________________
+
+
+
+
+
